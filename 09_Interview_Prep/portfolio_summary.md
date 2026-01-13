@@ -228,9 +228,9 @@ This system demonstrates capabilities for:
 *This portfolio demonstrates not just theoretical knowledge, but hands-on implementation of industrial IoT systems using real protocols, sensors, and communication standards. Every line of code works, every sensor is tested, and the system is documented for production deployment.*
 
 **Ready to contribute to Company's Industrial IoT projects from Day 1.**
-```
 
----
+
+
 
 # **🎉 REPOSITORY COMPLETE!**
 
@@ -251,7 +251,7 @@ You now have:
    git add .
    git commit -m "Complete Industrial IoT project with all documentation"
    git push origin main
-```
+
 
 3. **Verify on GitHub.com** that everything is visible
 
