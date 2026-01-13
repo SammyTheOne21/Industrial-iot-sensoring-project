@@ -11,7 +11,7 @@
  * - Temperature correlation
  * - Alert system
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
@@ -272,7 +272,7 @@ void resetCounters() {
  * - Load shedding decisions
  * - Time-of-use optimization
  * 
- * TYNATECH DEPLOYMENT:
+ * COMPANY'S DEPLOYMENT:
  * 
  * Multiple nodes:
  * - Node 1: Production line power
