@@ -13,7 +13,7 @@
  * 
  * Note: This is a template - add LMIC library and keys on Day 7
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
@@ -189,7 +189,7 @@ void loop() {
  * - Optimize refill scheduling
  * - Battery lasts 6 months
  * 
- * TYNATECH VALUE PROPOSITION:
+ * COMPANY'S VALUE PROPOSITION:
  * 
  * This node provides:
  * ✓ Multi-sensor monitoring
