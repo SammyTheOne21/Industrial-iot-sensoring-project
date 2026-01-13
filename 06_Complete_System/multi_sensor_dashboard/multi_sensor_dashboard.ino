@@ -6,7 +6,7 @@
  * 
  * Hardware: ESP32 + All sensors (Day 7)
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
@@ -276,6 +276,6 @@ void displayDashboard() {
  * - Create web dashboard
  * - Add OLED display
  * 
- * TYNATECH APPLICATION:
+ * COMPANY'S APPLICATION:
  * This is a complete industrial monitoring node!
  */
