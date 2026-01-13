@@ -244,7 +244,7 @@ void printSummary() {
  * - Compliance tracking
  * - Alert on out-of-range
  * 
- * TYNATECH APPLICATION:
+ * COMPANY'S APPLICATION:
  * 
  * Combine with other sensors:
  * - DHT22: Temperature & humidity
