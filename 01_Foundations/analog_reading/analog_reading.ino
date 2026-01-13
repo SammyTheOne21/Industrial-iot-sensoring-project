@@ -15,7 +15,7 @@
  * - ADC1 pins: 32, 33, 34, 35, 36, 39
  * - ADC2: Avoid (conflicts with WiFi)
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
