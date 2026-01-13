@@ -7,7 +7,7 @@
  * Hardware: ESP32
  * I2C Pins: SDA = GPIO 21, SCL = GPIO 22 (default)
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
