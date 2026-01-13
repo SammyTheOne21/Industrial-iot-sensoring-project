@@ -215,9 +215,9 @@ void printSummary(float runtime) {
  * - Ground fault detection
  * - Arc fault detection
  * 
- * ========== TYNATECH RELEVANCE ==========
+ * ========== COMPANY'S RELEVANCE ==========
  * 
- * Energy monitoring is CORE Tynatech focus!
+ * Energy monitoring is CORE Industrial focus!
  * 
  * Use cases:
  * - Industrial machine power consumption
