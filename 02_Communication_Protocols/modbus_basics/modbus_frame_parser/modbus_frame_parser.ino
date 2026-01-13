@@ -4,7 +4,7 @@
  * Purpose: Understand Modbus RTU frame structure
  * Parse and generate Modbus messages
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
