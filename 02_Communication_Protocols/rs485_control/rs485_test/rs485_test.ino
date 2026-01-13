@@ -16,7 +16,7 @@
  * 3.3V → VCC
  * GND → GND
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
