@@ -18,7 +18,7 @@
  * I2C Address: 0x76 or 0x77
  * (Run I2C scanner first to find it)
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
