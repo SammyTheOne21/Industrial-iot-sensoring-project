@@ -11,7 +11,7 @@
  * 101: Humidity (0.1% resolution)
  * 102: Pressure (0.1 hPa resolution)
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
