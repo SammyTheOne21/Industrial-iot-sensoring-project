@@ -6,7 +6,7 @@
  * 
  * Hardware: Heltec WiFi LoRa 32 V3
  * 
- * Author: [Your Name]
+ * Author: Samrat Sharma
  * Date: January 2026
  */
 
