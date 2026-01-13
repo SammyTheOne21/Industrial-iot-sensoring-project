@@ -208,12 +208,12 @@ See `08_Resources/datasheets/` folder for PDF datasheets:
 
 ---
 
-## Tynatech-Specific
+## Company-Specific
 
 ### Company Research
-- **Tynatech Website:** [Company URL]
-- **LinkedIn:** Search "Tynatech" + your location
-- **Google News:** "Tynatech IoT projects"
+- **Company's Website:** [Company URL]
+- **LinkedIn:** Search "<Company Name>" + your location
+- **Google News:** "<Company Name> IoT projects"
 - **Crunchbase:** Company profile and funding
 
 ### Industry Standards
