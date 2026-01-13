@@ -282,7 +282,7 @@ void printSummary() {
  * - Arc fault warning
  * - Automatic shutdown
  * 
- * TYNATECH INTEGRATION:
+ * COMPANY'S INTEGRATION:
  * 
  * Day 6: Add to Modbus registers
  * Day 7: Send via LoRaWAN
